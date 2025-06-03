@@ -10,4 +10,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MiguelCss01&theme=dark)](https://git.io/streak-stats)
 
-[![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelCss01)](https://github.com/MiguelCss01/github-readme-stats)
+[![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelCss01&theme=dark)](https://github.com/MiguelCss01/github-readme-stats)
+
