@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**MiguelCss01/MiguelCss01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, Soy Miguel!
 
-Here are some ideas to get you started:
+* Actualmente soy Estudiante de una carrera Universitaria la cual es Lic. Sistemas De Informacion, voy por mi 3cer Año
+* Por ahora me gusta mucho todo lo relacionado con Frontend 
+* Proximamente voy a abrir mi pagina web
+* Actualmente Manejo :  PHP, Python, JAVA, CSS
+ 
+### GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MiguelCss01&theme=dark)](https://git.io/streak-stats)
+
+[![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelCss01)](https://github.com/MiguelCss01/github-readme-stats)
