@@ -1,7 +1,7 @@
 
 # Hola, Soy Miguel!
 
-* Actualmente soy Estudiante de una carrera Universitaria la cual es Lic. Sistemas De Informacion, voy por mi 3cer Año
+* Actualmente soy Estudiante de una carrera Universitaria la cual es Lic. Sistemas De Informacion, voy por mi 3er Año
 * Por ahora me gusta mucho todo lo relacionado con Frontend 
 * Proximamente voy a abrir mi pagina web
 * Actualmente Manejo :  PHP, Python, JAVA, CSS
