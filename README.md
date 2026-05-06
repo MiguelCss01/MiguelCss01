@@ -3,10 +3,6 @@
   <strong>Estudiante de Lic. en Sistemas de Información (4to año)</strong>
 </p>
 
-<p align="center">
-<a href="https://linkedin.com/in/tu-usuario" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tu-usuario" height="30" width="40" /></a>
-</p>
-
 ### 🚀 ¿En qué estoy trabajando?
 - 📍 **[Surify](https://github.com/MiguelCss01/surify)**: Desarrollando una plataforma de turismo nacional integral utilizando **Laravel** y **PostgreSQL** con **PostGIS** para el manejo de mapas interactivos.
 - 📰 **Technium**: Trabajando en una revista digital enfocada en software de código abierto y accesibilidad.
