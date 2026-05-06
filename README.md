@@ -1,7 +1,10 @@
-<h1 align="center">¡Hola! Soy Miguel 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hola,%20soy%20Miguel!&fontSize=50&animation=twinkling&fontAlignY=35" width="100%" />
+
 <p align="center">
-  <strong>Estudiante de Licenciatura en Sistemas de Información (4to año)</strong>
-</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1572B6&center=true&vCenter=true&width=435&lines=Estudiante+de+Lic.+en+Sistemas" alt="Typing SVG" />
+  </a>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/TU_USUARIO" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
